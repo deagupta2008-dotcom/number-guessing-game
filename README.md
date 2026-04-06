@@ -1,19 +1,29 @@
 # Number Guessing Game
 
-A simple Python game where the user has to guess a randomly generated number.
+A simple Python game where the user has to guess a number between 1 and 10 within limited attempts.
 
 ##  Features
-- Random number generation
-- User input handling
-- Hints (too high / too low)
+-  Random number generation
+-  User input handling
+- Error handling for invalid input
+-  Limited attempts (5 chances)
+-  Simple game logic
 
-## ▶️ How to Run
-1. Install Python
+## How to Run
+
+1. Open terminal
 2. Run the file:
-   python game.py
+   python guess_game.py
 
-##  Tech Used
-- Python (beginner level)
+##  Game Preview
 
-##  Author
-Dea Gupta
+![Game Screenshot](screenshot.png)
+
+## 💡 What I Learned
+- Python loops (`while`)
+- Conditional statements (`if-else`)
+- Input validation
+- Basic game logic building
+## Author
+Dea Gupta  
+Aspiring Developer | Learning Python & Web Development 
